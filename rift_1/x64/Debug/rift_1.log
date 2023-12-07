@@ -1,0 +1,4 @@
+﻿  rift.cpp
+F:\CPP\code\rift_1\rift_1\Feature.h(1,1): warning C4828: 文件包含在偏移 0x3ec 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+F:\CPP\code\rift_1\rift_1\rift.cpp(89,12): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  rift_1.vcxproj -> F:\CPP\code\rift_1\x64\Debug\rift_1.exe
